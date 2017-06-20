@@ -4,6 +4,9 @@ DATE:           2014 11 28
 DATE REVISED:   2017 06 19
 CISP PROJECT:   AVL
 
+    TO-DO LIST
+    Make it work with UNIX created text files, (it works if input file was created on Windows).
+
     PROJECT REQUIREMENTS
     Populate a tree via a text file (input.txt)
     After every insert, the tree must be balanced.
