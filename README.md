@@ -19,3 +19,10 @@ Data Structures C/C++
     At the end, display the tree in level format.
     Make sure to include the height and the balance factor of every node in your output.
     Redirect the display to  an output file (output.txt)
+
+# TO COMPILE & RUN IT
+    create an input.txt file with numbers (on Windows for now)
+    in your terminal,    g++ -Wall avl.cpp -o avl
+    run the program,     ./avl
+    check for output in the output.txt file
+    see the uploaded example and explanation.txt file for additional information
