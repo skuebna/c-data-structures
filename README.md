@@ -25,4 +25,3 @@ Data Structures C/C++
     in your terminal,    g++ -Wall avl.cpp -o avl
     run the program,     ./avl
     check for output in the output.txt file
-    see the uploaded example and explanation.txt file for additional information
