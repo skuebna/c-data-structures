@@ -21,7 +21,7 @@ Data Structures C/C++
     Redirect the display to  an output file (output.txt)
 
 # TO COMPILE & RUN IT
-    create an input.txt file with numbers (on Windows for now)
+    create an input.txt file with numbers (encoding ANSI)
     in your terminal,    g++ -Wall avl.cpp -o avl
     run the program,     ./avl
     check for output in the output.txt file
